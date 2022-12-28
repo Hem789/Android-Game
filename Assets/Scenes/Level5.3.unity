@@ -1411,8 +1411,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   heli: {fileID: 2371798697000271648, guid: 6893ba83402a7f44a98531676a4a1004, type: 3}
   suru: {fileID: 666170859}
-  delay: 3
-  x: 2
+  delay: 6
+  x: 5
   m: {fileID: 0}
 --- !u!1 &705033950 stripped
 GameObject:
